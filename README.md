@@ -1,7 +1,5 @@
 # hacktoberfest-web
 
-# HACKTOBERFEST_c
-
 ### Option 1. Complete this process in Github (in your browser)
 
 1. Fork the project:
